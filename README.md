@@ -12,12 +12,10 @@
 
 <br>
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Willian-Nilton-Alves&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+## 🔥 Sequência de commits
 
 <p align="center">
-  <img height="170em" src="https://streak-stats.demolab.com?user=Willian-Nilton-Alves&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Willian-Nilton-Alves&theme=tokyonight&hide_border=true" />
 </p>
 
 <br>
